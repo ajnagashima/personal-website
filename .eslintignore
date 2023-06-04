@@ -1,0 +1,7 @@
+build
+.vscode
+.git
+.github
+.archived
+public
+node_modules

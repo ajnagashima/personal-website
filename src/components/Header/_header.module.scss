@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  background-color: seagreen;
+}
+
+.header_name {
+  padding: 1rem;
+  line-height: 0.9rem;
+  text-decoration: none;
+  color: black;
+  display: inline-flex;
+  &:hover {
+    opacity: 80;
+    background-color: aquamarine;
+  }
+}
